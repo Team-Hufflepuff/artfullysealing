@@ -9,7 +9,7 @@
   "author": "Long Do",
   "license": "MIT",
   "dependencies": {
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -19,6 +19,7 @@
     "gulp-uglify": "^3.0.2",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
+    "netlify-cli": "^2.68.0",
     "node-sass": "^4.13.1"
   }
 }
